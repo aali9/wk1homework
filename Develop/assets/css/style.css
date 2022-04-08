@@ -12,8 +12,10 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color:#2a607c;
     color:#fff;
-    padding:20px;/* rearranged structer and put padding at the bottom, also shortened colour tag */
+    padding:20px;
     }
+    /* rearranged structer and put padding at the bottom, also shortened colour tag */
+    
     
     .header h1 {
     display:inline-block;
