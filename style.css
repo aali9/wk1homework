@@ -7,7 +7,16 @@
     body {
     background-color:#d9dcd6;
     }
-    
+
+    a {
+        color:#fff; /* Made colour tag shorter without changing the colour */
+        text-decoration:none;
+        }
+        
+        p {
+        font-size:16px;
+        }
+
     .header {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color:#2a607c;
@@ -41,15 +50,6 @@
     .header div ul li {
     display:inline-block;
     margin-left:25px;
-    }
-    
-    a {
-    color:#fff; /* Made colour tag shorter without changing the colour */
-    text-decoration:none;
-    }
-    
-    p {
-    font-size:16px;
     }
     
     .hero {
@@ -139,4 +139,15 @@
     margin-bottom:20px;
     font-size:36px;
     }
+   
+    .footer {
+        clear:both;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align:center;
+        padding:30px;
+        }
+        
+        .footer h2 {
+        font-size:20px;
+        }
 /* Condensed element classes into one element class */
