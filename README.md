@@ -18,10 +18,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+<img scr="./assets/images/01-html-css-git-homework-demo.png"/>
+
 URl link of site
 https://aali9.github.io/wk1homework/
 
 Github pages 
 https://github.com/aali9/wk1homework
-
-
