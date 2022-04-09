@@ -6,7 +6,7 @@ In this task the codebase needed to follow accessibility standards so that the s
 
 Improved the codebase for long-term sustainability. Made sure the code is functioning correctly.  consolidated the CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
  
-GIVEN a webpage meets accessibility standards
+The webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
@@ -24,5 +24,4 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
