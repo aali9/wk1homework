@@ -88,17 +88,6 @@
     padding:20px; /* Moved padding to the bottom for clearer structure */
     }
     
-    .footer {
-    clear:both;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align:center;
-    padding:30px;
-    }
-    
-    .footer h2 {
-    font-size:20px;
-    }
-    
     /* moved footer class elements */
 
     .benefit-lead,.benefit-brand,.benefit-cost {
@@ -147,7 +136,8 @@
         padding:30px;
         }
         
-        .footer h2 {
+    .footer h2 {
         font-size:20px;
         }
+
 /* Condensed element classes into one element class */
