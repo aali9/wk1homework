@@ -20,8 +20,6 @@ THEN I find a concise, descriptive title
 
 URl link of site
 
-http://127.0.0.1:5500/Develop/index.html
-
 Github pages 
 
 
