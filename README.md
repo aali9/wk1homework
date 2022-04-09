@@ -19,8 +19,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 URl link of site
+https://aali9.github.io/wk1homework/
 
 Github pages 
-
-
-
+https://github.com/aali9/wk1homework
