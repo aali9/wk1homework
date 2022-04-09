@@ -18,10 +18,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-You are required to submit the following for review:
+URl link of site
 
-* The URL of the deployed application.
+http://127.0.0.1:5500/Develop/index.html
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
+Github pages 
+
 
 
